@@ -7,3 +7,5 @@ Features in my code:
 -Polymorphism
 -Exception Handling
 -And more
+
+HOW TO RUN: save all in one folder and run the StudentDatabaseApp.java. It will read the other file from studentdatabaseapp folder
